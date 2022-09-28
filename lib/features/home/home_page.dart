@@ -64,7 +64,7 @@ class _HomePageState extends State<HomePage> {
                   hintText: 'Search',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.all(
-                      Radius.circular(10.0),
+                      Radius.circular(10),
                     ),
                   ),
                 ),
