@@ -6,10 +6,10 @@ Example repository showcasing a pipeline with different kinds of tests for a Flu
 
 ## Versions
 
-| Name           | Version           |
-| -------------- | ----------------- |
-| Flutter SDK    | v2.2.2 (stable) |
-| Dart SDK       | > 2.12.0        |
+| Name           | Version         |
+| -------------- |-----------------|
+| Flutter SDK    | v3.3.2 (stable) |
+| Dart SDK       | > 2.18.1        |
 
 
 ## Setup
